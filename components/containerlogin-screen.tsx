@@ -39,11 +39,11 @@ const ContainerloginScreen: NextPage<ContainerloginScreenType> = ({
           <Component1 pxRegular="아이디" />
           <Component1 pxRegular="비밀번호" />
           <Buttontext />
-          <div className="w-[29.625rem] h-[0.75rem] flex flex-row items-start justify-start gap-[12.062rem]">
-            <div className="h-[0.75rem] w-[11.875rem] relative text-[1rem] font-medium font-body-h6-regular text-black text-left flex items-center overflow-hidden text-ellipsis whitespace-nowrap shrink-0">
+          <div className="w-[29.625rem] flex flex-row items-center justify-between py-2">
+            <div className="text-[0.875rem] font-medium font-body-h6-regular text-black text-left">
               비밀번호를 잊어버리셨나요?
             </div>
-            <div className="h-[0.75rem] w-[5.813rem] relative text-[1rem] font-medium font-body-h6-regular text-main-color-nomal-blue text-right flex items-center shrink-0">
+            <div className="text-[0.875rem] font-medium font-body-h6-regular text-main-color-nomal-blue text-right">
               비밀번호 찾기
             </div>
           </div>
