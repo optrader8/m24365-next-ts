@@ -21,7 +21,7 @@ const ContainerloginScreen: NextPage<ContainerloginScreenType> = ({
                 className="h-[5rem] w-[4.969rem] relative object-cover"
                 loading="lazy"
                 alt=""
-                src="/1-1@2x.png"
+                src="/images/login/login_symbol.png"
               />
             </div>
             <div className="w-[5.663rem] h-[0.413rem] relative rounded-[50%] [background:radial-gradient(50%_50%_at_50%_50%,_rgba(218,_218,_218,_0.5),_rgba(218,_218,_218,_0))]" />

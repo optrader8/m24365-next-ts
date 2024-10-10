@@ -10,7 +10,7 @@ const LogowIcon: NextPage<LogowIconType> = ({ className = "" }) => {
       className={`w-[11.25rem] h-[2.306rem] relative object-cover shrink-0 z-[1] ${className}`}
       loading="lazy"
       alt=""
-      src="/logow@2x.png"
+      src="/images/login/login_logo.png"
     />
   );
 };

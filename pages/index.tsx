@@ -8,7 +8,7 @@ const Web1920px: NextPage = () => {
       <img
         className="h-full w-full absolute !m-[0] top-[0rem] bottom-[0rem] left-[0rem] max-h-full object-cover"
         alt=""
-        src="/background-image@2x.png"
+        src="/images/login/login_bg.png"
       />
       <header className="w-[29.438rem] flex flex-col items-start justify-start pt-[6.125rem] px-[0rem] pb-[0rem] box-border max-w-full text-left text-[3.125rem] text-white font-poppins mq750:pt-[2.625rem] mq750:box-border mq1050:pt-[4rem] mq1050:box-border">
         <div className="self-stretch flex flex-col items-start justify-start gap-[43.181rem] mq750:gap-[21.563rem]">
